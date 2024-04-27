@@ -18,7 +18,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-name='Abandoned-Object-Detection',
+name='Grade Prediction',
 version='0.0.1',
 author='vidit',
 author_email='viditsn@gmail.com',
